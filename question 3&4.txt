@@ -1,0 +1,15 @@
+3.①增加了谷歌搜索框，可以直接搜索想要的内容
+②介绍结尾使用了阴影，使得段落更加具有冲击力
+
+4.
+本次作业对于我而言是一场挑战。我将CSS/JS/HTML三者相结合，实现了满意的网页效果。本次作业让我学会如何设置CSS external style sheet以及CSS Element，实现了在浏览器窗口不同大小下介绍背景颜色发生变化，这很酷炫。除此之外，利用JS实现了实时时间显示，让网页“动”起来了。通过超链接实现不同网页之间的跳转，让我的网页内容逐渐丰富。
+
+本次网页的内容源自中国传统文化，介绍了中国传统文学作品。我很喜欢读书。在今后的学习生活中，我将会把所学的内容继续融入到其中去，创建更好的网站。
+
+3.① Add Google search box, you can search directly
+②The shadow is used at the end of the introduction to make the paragraph more attractive
+
+4.
+This assignment is a challenge for me. I combined CSS / JS / HTML to achieve a satisfactory webpage. This assignment made me learn how to set up CSS external style sheet and CSS Element, and realized that the background color changes under different browser window sizes, which is very cool. In addition,  JS was used to show current time. by the way, different webpages connected through hyperlinks  have gradually enriched my webpage content.
+
+The content of this page is curated  from traditional Chinese culture and introduces traditional Chinese literary works. I like reading very much. In the future study life, I will continue to integrate what I have learned into it and create a better website.
